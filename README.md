@@ -34,8 +34,6 @@ To train and evaluate the models, run the Jupyter notebooks provided in the repo
 - The developed models achieved an accuracy of 67.90%, with a sensitivity of 65.96% and specificity of 70.59%.
 - The results demonstrate the potential of deep learning approaches in improving the accuracy of medical image segmentation tasks.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - This project is based on the Kidney Tumor Segmentation Challenge (KiTS).
